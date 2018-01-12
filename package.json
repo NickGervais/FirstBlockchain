@@ -1,0 +1,11 @@
+{
+  "name": "nickgervais",
+  "version": "1.0.0",
+  "description": "blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Gervais",
+  "license": "MIT"
+}
